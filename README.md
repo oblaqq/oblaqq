@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oblaqq
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning front-end web development and ui design
+- 🌱 I’m currently learning back-end web development 
 - 💞️ I’m looking to collaborate on many more projects
 - 📫 How to reach me Obblaqqdev0@gmail.com
 
